@@ -1,6 +1,20 @@
-### Now playing: 
+## Hey there! 👋
+
+I'm Marvin, also known as Codama. I'm a passionate programmer with a love for aesthetics, music, and exploring the depths of consciousness.
+
+
+## Interests
+
+- 🤍 Tomorrowland
+- 🌘 Studio Ghibli
+- 🌺 Japanese Minimalism
+- 🕳️ Getting Lost in Rabbit Holes
+
+## Now playing: 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lxsspoxurrhvxpco37qj1ao0n&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lxsspoxurrhvxpco37qj1ao0n&redirect=true)
+
+
 
 
 <!--
